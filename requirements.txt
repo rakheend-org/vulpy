@@ -3,7 +3,7 @@ cryptography
 Flask
 geoip2
 jsonschema
-PyJWT
+PyJWT 
 pyotp
 qrcode
 requests
